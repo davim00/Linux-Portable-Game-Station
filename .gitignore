@@ -208,5 +208,3 @@ dist/
 /EmulationStation-x86_64.AppImage.home/.emulationstation/roms/**/media/
 /EmulationStation-x86_64.AppImage.home/.emulationstation/themes/art-book/
 /EmulationStation-x86_64.AppImage.home/.emulationstation/themes/fundamental/
-
-/EmulationStation-x86_64.AppImage.home/.emulationstation/systems/retroarch/RetroArch-Linux-x86_64.AppImage.home/**/*
